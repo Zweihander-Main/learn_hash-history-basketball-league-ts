@@ -12,7 +12,7 @@
 
 ### Live demo:
 
-[Available at github-battle.zweisolutions.com](https://hash-history-basketball-league-ts.zweisolutions.com)
+[Available at hash-history-basketball-league-ts.zweisolutions.com](https://hash-history-basketball-league-ts.zweisolutions.com)
 
 ### Instructions
 
