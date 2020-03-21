@@ -19,7 +19,7 @@
 1. Run `npm install` in the main directory (package.json should be accurate)
     - Special Notes:
     - Source/Dev: src folder, Production: build folder
-2. Run one of the commands from the [Scripts](#scripts) section. You'll most likely want `npm run dev` for development and `npm run build` for production.
+2. Run one of the commands from the [Scripts](#scripts) section. You'll most likely want `npm run start` for development and `npm run build` for production.
 
 ### Scripts
 
